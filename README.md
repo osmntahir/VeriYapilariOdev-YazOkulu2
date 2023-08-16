@@ -1,1 +1,1 @@
-# Sakarya Üniversitesi Yaz Okulu Veri Yapıları 2.ödev yazılmıştır
+# Sakarya Üniversitesi Yaz Okulu Veri Yapıları 2.ödev 
